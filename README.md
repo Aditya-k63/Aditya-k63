@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aditya-k63&label=Profile+Views&color=0e75b6&style=flat" alt="visitor count" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-DS%20%7C%20ML-brightgreen?style=flat" alt="open to work" />
-  <img src="https://img.shields.io/badge/Focus-Placement%202025-orange?style=flat" alt="placement" />
+  <img src="https://img.shields.io/badge/Focus-Placement%202026-orange?style=flat" alt="placement" />
 </p>
 
 ---
