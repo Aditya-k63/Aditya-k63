@@ -44,8 +44,8 @@
 
 | Project | Description | Stack | Repo |
 |---|---|---|---|
-|  STGCN Traffic Forecaster | Spatiotemporal GNN for traffic speed prediction | PyTorch · FastAPI · Streamlit | [View](#) |
-|  RAG Pipeline | Retrieval-Augmented Generation system | LangChain · Vector DB · LLM | [View](#) |
+|  STGCN Traffic Forecaster | Spatiotemporal GNN for traffic speed prediction | PyTorch · FastAPI · Streamlit | [View](https://github.com/Aditya-k63/stgcn-traffic-forecasting) |
+|  RAG Pipeline | Retrieval-Augmented Generation system | LangChain · Vector DB · LLM | [View]() |
 |  Customer Churn Prediction | End-to-end churn model with MLOps pipeline | XGBoost · MLflow · Docker | [View](#) |
 |  Crypto Predictor | Time series price forecasting model | LSTM · Python · Pandas | [View](#) |
 
