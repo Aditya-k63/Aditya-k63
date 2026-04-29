@@ -14,10 +14,10 @@
 
 ##  About Me
 
--  Working on **STGCN Traffic Forecasting** — Graph Neural Networks on METR-LA dataset
+-  Worked on **STGCN Traffic Forecasting** — Graph Neural Networks on METR-LA dataset
 -  Built RAG pipelines, Crypto Predictor & Customer Churn Prediction models
 -  Learning Docker & CI/CD (GitHub Actions → Docker Hub → Render.com)
--  Targeting **DS / ML campus placements 2025**
+-  Targeting **DS / ML campus placements 2026**
 -  Ask me about: Python · ML · FastAPI · MLflow · SQL · Time Series
 -  Fun fact: I think every dataset has a hidden story waiting to be found
 
@@ -45,9 +45,9 @@
 | Project | Description | Stack | Repo |
 |---|---|---|---|
 |  STGCN Traffic Forecaster | Spatiotemporal GNN for traffic speed prediction | PyTorch · FastAPI · Streamlit | [View](https://github.com/Aditya-k63/stgcn-traffic-forecasting) |
-|  RAG Pipeline | Retrieval-Augmented Generation system | LangChain · Vector DB · LLM | [View]() |
-|  Customer Churn Prediction | End-to-end churn model with MLOps pipeline | XGBoost · MLflow · Docker | [View](#) |
-|  Crypto Predictor | Time series price forecasting model | LSTM · Python · Pandas | [View](#) |
+|  RAG Pipeline | Retrieval-Augmented Generation system | LangChain · Vector DB · LLM | [View](https://github.com/Aditya-k63/Rag) |
+|  Customer Churn Prediction | End-to-end churn model with MLOps pipeline | XGBoost · MLflow · Docker | [View](https://github.com/Aditya-k63/churn-prediction-ml-api) |
+|  Crypto Predictor | Time series price forecasting model | LSTM · Python · Pandas | [View](https://github.com/Aditya-k63/crypto-direction-predictor) |
 
 ---
 
