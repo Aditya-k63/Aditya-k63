@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi , I'm Aditya kumar (Isshu)
 
-<!--
-**Aditya-k63/Aditya-k63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ B.Tech AIML Student  
+ Interested in Data Science, ML & AI  
+Open Source Contributor | Aspiring Data Scientist  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+- Currently working on ML & Deep Learning projects  
+- Strong in Problem Solving 
+- Looking to collaborate on AI/ML projects  
+- Ask me about Python, ML, SQL, Data Analysis  
+
+---
+
+##  Tech Stack
+-  Languages: Python, SQL  
+-  Data: Pandas, NumPy, Matplotlib, Seaborn  
+-  ML: Scikit-learn, TensorFlow  
+-  Database: PostgreSQL  
+
+---
+
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Aditya-k63&show_icons=true&theme=radical)
+
+---
+
+
+---
+
+## 📫 Contact Me
+- Email: adityakumar14072003@gmail.com
+- LinkedIn: www.linkedin.com/in/aditya-kumar1407
