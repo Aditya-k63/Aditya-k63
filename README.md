@@ -66,19 +66,14 @@ Building enterprise-grade systems at the intersection of **AI/ML** and **full-st
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0D1117)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white&labelColor=0D1117)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white&labelColor=0D1117)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0D1117)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0D1117)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0D1117)
 
 <br/>
 
 **Backend & Databases**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0D1117)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white&labelColor=0D1117)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=0D1117)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white&labelColor=0D1117)
 ![pgvector](https://img.shields.io/badge/pgvector-6C63FF?style=flat-square&labelColor=0D1117&color=6C63FF)
@@ -90,7 +85,6 @@ Building enterprise-grade systems at the intersection of **AI/ML** and **full-st
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0D1117)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=0D1117)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=0D1117)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0D1117)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0D1117)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=0D1117)
@@ -107,7 +101,6 @@ Building enterprise-grade systems at the intersection of **AI/ML** and **full-st
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=0D1117)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=0D1117)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=0D1117)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white&labelColor=0D1117)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white&labelColor=0D1117)
 
 </div>
@@ -272,18 +265,8 @@ Fine-tuned EfficientNetB0 with transfer learning for multi-class MRI classificat
 
 <div align="center">
 
-### AI/ML Intern
-**Fobes Skill Itech**
-`Jul 2026 — Aug 2026`
-
-Built the Ticket Categorizer system — an NLP pipeline classifying 12K+ support tickets into 4 categories with confidence-based human-review routing. Compared 3 models, deployed Logistic Regression with TF-IDF vectorization, and delivered a Streamlit interface for production use.
-
-`Python` `NLP` `TF-IDF` `Logistic Regression` `Streamlit` `HuggingFace`
-
----
-
-### AI/ML Intern
-**Internal Projects / University**
+### AI/ML Engineer
+**Personal & University Projects**
 
 Designed and deployed 6+ end-to-end ML systems including GNN-based traffic forecasting, hybrid RAG pipelines with knowledge graphs, MLOps workflows with CI/CD, and LLM-powered task planning agents.
 
@@ -310,39 +293,13 @@ Designed and deployed 6+ end-to-end ML systems including GNN-based traffic forec
 
 ---
 
-## Certifications
 
-<div align="center">
-
-**AWS**
-<br/>
-<img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=0D1117" alt="AWS Cloud Practitioner"/>
-
-**Oracle**
-<br/>
-<img src="https://img.shields.io/badge/Oracle_Cloud_Infra-F80000?style=flat-square&logo=oracle&logoColor=white&labelColor=0D1117" alt="Oracle Cloud"/>
-
-**NPTEL**
-<br/>
-<img src="https://img.shields.io/badge/NPTEL-Python_for_Data_Science-6C63FF?style=flat-square&labelColor=0D1117&color=6C63FF" alt="NPTEL Python"/>
-<img src="https://img.shields.io/badge/NPTEL-Machine_Learning-6C63FF?style=flat-square&labelColor=0D1117&color=6C63FF" alt="NPTEL ML"/>
-
-**Cisco**
-<br/>
-<img src="https://img.shields.io/badge/Cisco-Packet_Tracer-049FD9?style=flat-square&logo=cisco&logoColor=white&labelColor=0D1117" alt="Cisco"/>
-
-</div>
-
----
 
 ## Coding Profiles
 
 <div align="center">
 
-<a href="https://leetcode.com/Aditya-k63" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117" alt="LeetCode"/></a>
-<a href="https://www.geeksforgeeks.org/user/aditya-k63" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0D1117" alt="GFG"/></a>
-<a href="https://www.hackerrank.com/adityakumar1407" target="_blank"><img src="https://img.shields.io/badge/HackerRank-1BA941?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D1117" alt="HackerRank"/></a>
-<a href="https://www.codechef.com/users/aditya_k63" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0D1117" alt="CodeChef"/></a>
+<a href="https://leetcode.com/u/ad_singh264/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117" alt="LeetCode"/></a>
 
 </div>
 
@@ -352,11 +309,11 @@ Designed and deployed 6+ end-to-end ML systems including GNN-based traffic forec
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya-k63&show_icons=true&theme=radical&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&bg_color=0D1117" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aditya-k63&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-k63&layout=compact&theme=radical&hide_border=true&title_color=6C63FF&text_color=ffffff&bg_color=0D1117" height="165" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-k63&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
 
-<img src="https://streak-stats.demolab.com?user=Aditya-k63&theme=radical&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&background=0D1117" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-k63&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -366,7 +323,7 @@ Designed and deployed 6+ end-to-end ML systems including GNN-based traffic forec
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aditya-k63&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=10" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Aditya-k63&theme=tokyonight&no-frame=true&column=6" alt="Trophies"/>
 
 </div>
 
