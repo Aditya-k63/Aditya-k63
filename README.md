@@ -1,50 +1,57 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B4B,100:6C63FF&height=220&section=header&text=Aditya%20Kumar%20(Isshu)&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=B.Tech%20AI-ML%20%7C%20Full%20Stack%20Engineer%20%7C%20ML%20Engineer&descSize=18&descAlignY=55&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:111827,100:4F46E5&height=230&section=header&text=Aditya%20Kumar&fontSize=54&fontColor=ffffff&fontAlignY=34&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20GenAI%20%E2%80%A2%20Backend%20Engineering&descSize=18&descAlignY=57&animation=fadeIn" width="100%"/>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=435&lines=Building+Intelligent+Systems;Full+Stack+AI+Engineer;Open+Source+Contributor;Turning+Data+into+Products" alt="Typing SVG" />
+### Building intelligent systems that are practical, reliable, and production-ready.
+
+<a href="https://github.com/Aditya-k63">
+<img src="https://img.shields.io/badge/GitHub-Aditya--k63-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/aditya-kumar1407">
+<img src="https://img.shields.io/badge/LinkedIn-Aditya%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://aditya-k63.github.io/Aditya-k63/">
+<img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:adityakumar14072003@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<!-- Academic & Location Badges -->
-<img src="https://img.shields.io/badge/B.Tech%20AI--ML-LNCT%20University-6C63FF?style=flat-square&labelColor=0D1117&color=6C63FF" alt="B.Tech AI-ML"/>
-<img src="https://img.shields.io/badge/Location-Bhopal%2C%20MP-ffffff?style=flat-square&labelColor=0D1117&color=1A1B4B" alt="Location"/>
+<br/><br/>
 
-<br/>
-
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=Aditya-k63&label=Profile%20Views&color=6C63FF&style=flat-square&labelColor=0D1117" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Aditya-k63?label=Followers&color=6C63FF&style=flat-square&labelColor=0D1117" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/Aditya-k63?label=Stars&color=FFD700&style=flat-square&labelColor=0D1117" alt="Stars"/>
-
-<br/>
-
-<!-- Action Buttons -->
-<a href="https://aditya-k63.github.io/Aditya-k63/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/aditya-kumar1407" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
-<a href="mailto:adityakumar14072003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/></a>
-<a href="https://github.com/Aditya-k63" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/></a>
+<img src="https://komarev.com/ghpvc/?username=Aditya-k63&label=Profile%20Views&color=4F46E5&style=flat-square" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Aditya-k63?label=Followers&style=flat-square&color=4F46E5" alt="Followers"/>
 
 </div>
 
 ---
 
-## About Me
+## About
 
-Building enterprise-grade systems at the intersection of **AI/ML** and **full-stack engineering**. I architect production-ready applications that solve real problems — from spatio-temporal graph neural networks to hybrid retrieval-augmented generation systems. Every project I build is designed to scale, deploy, and deliver measurable impact.
+I am a **B.Tech student specializing in AI & ML** who enjoys taking ideas from a model or algorithm and turning them into complete software systems.
 
-- **AI/ML Engineering** — Graph Neural Networks, RAG pipelines, NLP classifiers, time-series forecasting, MLOps workflows
-- **Full Stack Development** — FastAPI backends, Streamlit frontends, REST APIs, JWT auth, Docker containerization
-- **Product Engineering** — End-to-end ML systems with CI/CD, monitoring, evaluation, and cloud deployment
-- **Open Source** — Actively contributing to reproducible ML tooling and production-grade AI systems
+My work sits at the intersection of **Generative AI, Retrieval-Augmented Generation, machine learning, backend engineering, and data-driven applications**. I focus on systems that are not only capable of producing useful results, but are also structured for evaluation, deployment, observability, and reliability.
+
+### What I work on
+
+- **Generative AI & RAG** — hybrid retrieval, GraphRAG, embeddings, reranking, evaluation, and LLM applications
+- **AI Agents** — LangGraph workflows, tool calling, planning, memory, routing, and human-in-the-loop execution
+- **ML Engineering** — NLP, forecasting, classification, feature engineering, model evaluation, and deployment
+- **Backend Engineering** — FastAPI, REST APIs, PostgreSQL, Neo4j, authentication, caching, and service design
+- **MLOps & DevOps** — Docker, CI/CD, reproducible benchmarks, monitoring, and production-oriented workflows
+
+---
+
+## Current Focus
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Open_To-DS_%7C_ML_%7C_FullStack-6C63FF?style=flat-square&labelColor=0D1117&color=6C63FF" alt="Open To Work"/>
-<img src="https://img.shields.io/badge/Status-Placement_2026-10B981?style=flat-square&labelColor=0D1117&color=10B981" alt="Status"/>
-<img src="https://img.shields.io/badge/Blog-Available-FF6B6B?style=flat-square&labelColor=0D1117&color=FF6B6B" alt="Blog"/>
+| Focus Area | What I am building |
+|:---:|:---|
+| **RAG Systems** | Hybrid vector + BM25 + graph retrieval with reranking and evaluation |
+| **Agentic AI** | Stateful workflows with planning, tools, routing, and review loops |
+| **AI Engineering** | FastAPI services around ML and LLM systems |
+| **System Reliability** | Fallbacks, retries, caching, evaluation, and deterministic CI |
 
 </div>
 
@@ -54,348 +61,201 @@ Building enterprise-grade systems at the intersection of **AI/ML** and **full-st
 
 <div align="center">
 
-**Languages**
+### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=0D1117)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white&labelColor=0D1117)
+<img src="https://skillicons.dev/icons?i=python,sql,bash" alt="Languages"/>
 
-<br/>
+### AI / ML
 
-**Frontend**
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="AI ML"/>
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white&labelColor=0D1117)
+### Backend & Data
 
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,neo4j" alt="Backend and databases"/>
 
-<br/>
+### Tools & Infrastructure
 
-**Backend & Databases**
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,vscode" alt="Tools"/>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0D1117)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=0D1117)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white&labelColor=0D1117)
-![pgvector](https://img.shields.io/badge/pgvector-6C63FF?style=flat-square&labelColor=0D1117&color=6C63FF)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=0D1117)
+### AI Ecosystem
 
-<br/>
-
-**Cloud, DevOps & Tooling**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0D1117)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=0D1117)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0D1117)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0D1117)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=0D1117)
-
-<br/>
-
-**ML & Data Science**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=0D1117)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0D1117)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=0D1117)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white&labelColor=0D1117)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=0D1117)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=0D1117)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=0D1117)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=0D1117)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white&labelColor=0D1117)
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow"/>
+<img src="https://img.shields.io/badge/pgvector-4F46E5?style=flat-square" alt="pgvector"/>
 
 </div>
 
 ---
 
-## AI / ML Expertise
+## Selected Projects
 
-| Domain | Proficiency | Details |
-|--------|-------------|---------|
-| Graph Neural Networks | Advanced | Spatio-temporal modeling with STGCN, PyTorch Geometric |
-| Retrieval-Augmented Generation | Advanced | Hybrid vector + BM25 + graph retrieval, cross-encoder reranking |
-| Natural Language Processing | Advanced | TF-IDF, transformers, BERT, sentiment analysis, text classification |
-| Computer Vision | Intermediate | EfficientNet, MRI classification, transfer learning |
-| Time Series Forecasting | Advanced | LSTM, temporal convolution, Bitcoin direction prediction |
-| MLOps & Deployment | Advanced | MLflow tracking, Docker, CI/CD pipelines, Render/AWS deployment |
-| Statistical Modeling | Advanced | A/B testing, hypothesis testing, feature engineering |
-| Classical ML | Advanced | XGBoost, Random Forest, Logistic Regression, SVM, clustering |
-| LLM Agents | Intermediate | LangGraph, tool-use agents, query classification, memory management |
-| Vector Databases | Advanced | pgvector, HNSW indexing, cosine similarity, embedding pipelines |
+### 01 · Hybrid GraphRAG System
 
----
+**Production-oriented RAG architecture combining semantic, lexical, and graph retrieval.**
 
-## Featured Projects
+**Pipeline**
 
-<details>
-<summary><b>Enterprise Hybrid GraphRAG</b></summary>
-<br/>
+`PDF → Parsing → Semantic Chunking → Embeddings → PostgreSQL/pgvector + Neo4j → Query Classification → Vector/BM25/Graph Retrieval → RRF → Cross-Encoder Reranking → LLM Generation`
 
-> Most RAG projects just do vector search. This one combines three retrieval methods — vector search, keyword search, and a knowledge graph — to answer questions that none of those approaches could handle alone.
+**Highlights**
 
-| Aspect | Detail |
-|--------|--------|
-| **Stack** | FastAPI · pgvector · Neo4j · sentence-transformers · Cross-encoder · Groq (llama-3.1) · Docker Compose |
-| **Scale** | 20+ implemented features · Full ingestion pipeline · Multi-source retrieval |
-| **Performance** | Hybrid RRF fusion · Cross-encoder reranking · Query classification for optimal routing |
-| **Security** | API key authentication · Rate limiting · Query caching · Environment-based secrets |
-| **Impact** | Handles multi-hop entity queries that fail with vector-only or graph-only approaches |
-| **Repository** | [Enterprise-Hybrid-GraphRAG](https://github.com/Aditya-k63/Enterprise-Hybrid-GraphRAG) |
+- Hybrid retrieval using **vector search, BM25, and Neo4j graph traversal**
+- Reciprocal Rank Fusion for combining retrieval signals
+- Cross-encoder reranking for final context selection
+- Query classification for retrieval-strategy routing
+- RAGAS-based evaluation with a deterministic fallback path
+- API authentication, rate limiting, caching, memory, and analytics
+- Dockerized services and automated GitHub Actions CI/CD
+- CI benchmark mode that does not depend on live external LLM requests
 
-Upload a PDF → text extraction → semantic chunking → embeddings → PostgreSQL + Neo4j knowledge graph. When you ask a question, a query classifier routes to the best strategy (vector, graph, BM25, or hybrid), merges with Reciprocal Rank Fusion, reranks with cross-encoder, and generates a grounded answer with source citations.
-
-</details>
-
-<details>
-<summary><b>RAG Assistant</b></summary>
-<br/>
-
-> Upload any PDF, ask questions, get answers grounded in the actual document. No hallucinations, no guessing.
-
-| Aspect | Detail |
-|--------|--------|
-| **Stack** | FastAPI · pgvector · sentence-transformers · BM25 · Cross-encoder reranker · Groq · Streamlit |
-| **Scale** | Full ingestion pipeline · Evaluation framework (RAGAS) · Conversation memory |
-| **Performance** | Hybrid BM25 + vector search · Reciprocal Rank Fusion · Cross-encoder reranking |
-| **Security** | API key authentication · Query caching · Environment-based secrets |
-| **Impact** | Average evaluation score 0.75/1.0 across faithfulness, relevance, and context precision |
-| **Repository** | [Rag](https://github.com/Aditya-k63/Rag) |
-
-Three retrieval methods run in parallel: BM25 for exact keyword matches, vector search for semantic meaning, and cross-encoder reranking for precision. Results are merged with RRF and scored across faithfulness, relevance, and context precision.
-
-</details>
-
-<details>
-<summary><b>STGCN Traffic Forecaster</b></summary>
-<br/>
-
-> Predicting urban traffic speeds across 207 road sensors using Spatio-Temporal Graph Convolutional Networks.
-
-| Aspect | Detail |
-|--------|--------|
-| **Stack** | PyTorch · FastAPI · Streamlit · NumPy · Pandas · METR-LA Dataset |
-| **Scale** | 207 road sensors · 30-minute forecasting horizon · Interactive live demo |
-| **Performance** | Joint spatio-temporal dependency learning via graph + temporal convolution |
-| **Security** | Containerized deployment (Docker) · Modular project structure |
-| **Impact** | Realistic traffic speed forecasts with interactive slider demonstrating dynamic inputs |
-| **Repository** | [stgcn-traffic-forecasting](https://github.com/Aditya-k63/stgcn-traffic-forecasting) |
-
-Implements STGCN blocks combining graph convolution (propagates features across road network adjacency) and temporal convolution (extracts time-series patterns with gated activation). Streamlit dashboard includes real-time input scrubbing.
-
-</details>
-
-<details>
-<summary><b>Customer Churn Prediction API</b></summary>
-<br/>
-
-> End-to-end production ML system with CI/CD, JWT auth, Docker, and cloud deployment.
-
-| Aspect | Detail |
-|--------|--------|
-| **Stack** | Scikit-learn · FastAPI · Streamlit · Docker Compose · GitHub Actions · Render |
-| **Scale** | 7,043 customers · 20 features · ROC-AUC ~0.83 · F1-optimized threshold |
-| **Performance** | Threshold tuning (0.42 vs default 0.50) improved churn recall significantly |
-| **Security** | JWT authentication · Role-based access control · Environment variable secrets |
-| **Impact** | Deployed on Render with automated CI/CD pipeline on every push to main |
-| **Repository** | [churn-prediction-ml-api](https://github.com/Aditya-k63/churn-prediction-ml-api) |
-
-Scikit-learn Pipeline handles imputation, encoding, scaling, and Logistic Regression in a single serialized object. GitHub Actions workflow runs tests, builds Docker image, and publishes to Docker Hub automatically.
-
-</details>
-
-<details>
-<summary><b>Task Planner Agent</b></summary>
-<br/>
-
-> AI agent that breaks high-level goals into tasks, plans execution order, and runs them with real tools — pausing for human input when needed.
-
-| Aspect | Detail |
-|--------|--------|
-| **Stack** | LangGraph · LangChain · Groq (llama-3.3-70b) · FastAPI · Docker |
-| **Scale** | Multi-node state machine · Plugin-style tool registry · Session memory |
-| **Performance** | LLM-based planning + review loop · Retry on failure · Dependency-aware task ordering |
-| **Security** | Environment-based API keys · Docker containerization |
-| **Impact** | Interactive 3-option clarification UI for ambiguous decisions mid-execution |
-| **Repository** | [-Task-Planner-Agent](https://github.com/Aditya-k63/-Task-Planner-Agent) |
-
-LangGraph orchestrates planner → executor → reviewer → router nodes. When the agent hits ambiguity, it shows a clean 3-option card instead of guessing. After each task, an LLM reviews completion and retries if needed.
-
-</details>
-
-<details>
-<summary><b>Ticket Categorizer</b></summary>
-<br/>
-
-> Classify support tickets into Billing, Technical, HR, or General using NLP — with confidence-based human review routing.
-
-| Aspect | Detail |
-|--------|--------|
-| **Stack** | TF-IDF · Logistic Regression · Streamlit · HuggingFace Datasets |
-| **Scale** | ~12,000 English tickets · 4 categories · 3 model comparison |
-| **Performance** | 89% accuracy · Macro F1 0.70 · Confidence-based auto-routing |
-| **Security** | Human-review fallback for low-confidence predictions |
-| **Impact** | Auto-routes high-confidence tickets, flags ambiguous ones for human review |
-| **Repository** | [Ticket-Categorizer](https://github.com/Aditya-k63/Ticket-Categorizer) |
-
-Compares Naive Bayes, Logistic Regression, and Linear SVM. Logistic Regression chosen over SVM (94.6% accuracy) because it supports `predict_proba` for confidence-based routing. Human-review triggers on top confidence < 50%, top-2 margin < 15%, or < 4 meaningful words.
-
-</details>
-
-<details>
-<summary><b>Brain Tumor MRI Classifier</b></summary>
-<br/>
-
-> Brain Tumor MRI Classifier using EfficientNetB0 — classifies Glioma, Meningioma, Pituitary & No Tumor.
-
-| Aspect | Detail |
-|--------|--------|
-| **Stack** | TensorFlow · EfficientNetB0 · Transfer Learning · OpenCV |
-| **Scale** | 4-class classification · Transfer learning from ImageNet weights |
-| **Performance** | 91% accuracy on test set |
-| **Security** | Model serialization · Reproducible training pipeline |
-| **Impact** | Medical imaging classification with production-grade accuracy |
-| **Repository** | [brain_tumor](https://github.com/Aditya-k63/brain_tumor) |
-
-Fine-tuned EfficientNetB0 with transfer learning for multi-class MRI classification. Achieves 91% accuracy across 4 tumor types using data augmentation and class balancing.
-
-</details>
+→ **Repository:** [Hybrid-GraphRAG-System](https://github.com/Aditya-k63/Hybrid-GraphRAG-System)
 
 ---
 
-## Experience
+### 02 · Task Planner Agent
 
-<div align="center">
+**Agentic workflow for turning high-level goals into executable tasks.**
 
-### AI/ML Engineer
-**Personal & University Projects**
+- LangGraph state-machine architecture
+- Planning → execution → review → routing workflow
+- Tool registry and session state
+- Retry and review loops for failed tasks
+- Human input when the agent encounters ambiguity
 
-Designed and deployed 6+ end-to-end ML systems including GNN-based traffic forecasting, hybrid RAG pipelines with knowledge graphs, MLOps workflows with CI/CD, and LLM-powered task planning agents.
-
-`PyTorch` `FastAPI` `Docker` `MLflow` `Neo4j` `LangGraph` `GitHub Actions`
-
-</div>
-
----
-
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|-------------|---------|
-| Enterprise GraphRAG | Built hybrid vector + BM25 + knowledge graph RAG system with 20+ features |
-| STGCN Traffic Forecasting | Implemented spatio-temporal GNN for 207-sensor traffic prediction |
-| MLOps Pipeline | Automated CI/CD with GitHub Actions → Docker Hub → Render deployment |
-| RAG Evaluation | Achieved 0.75/1.0 average across faithfulness, relevance, context precision |
-| 6+ Production Projects | Full-stack ML systems with auth, testing, containerization, and cloud deployment |
-| Open Source Contributions | Actively building reproducible ML tooling and documentation |
-
-</div>
+→ **Repository:** [-Task-Planner-Agent](https://github.com/Aditya-k63/-Task-Planner-Agent)
 
 ---
 
+### 03 · STGCN Traffic Forecasting
 
+**Spatio-temporal graph neural network for traffic forecasting across road sensors.**
 
-## Coding Profiles
+- PyTorch-based STGCN architecture
+- Graph convolution for spatial dependencies
+- Temporal convolution for time-series patterns
+- FastAPI backend with interactive Streamlit interface
+- Docker-ready project structure
 
-<div align="center">
-
-<a href="https://leetcode.com/u/ad_singh264/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117" alt="LeetCode"/></a>
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya-k63&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-k63&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-k63&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
+→ **Repository:** [stgcn-traffic-forecasting](https://github.com/Aditya-k63/stgcn-traffic-forecasting)
 
 ---
 
-## GitHub Trophies
+### 04 · Customer Churn Prediction API
 
-<div align="center">
+**End-to-end machine learning application with deployment and CI/CD.**
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aditya-k63&theme=tokyonight&no-frame=true&column=6" alt="Trophies"/>
+- Scikit-learn preprocessing and classification pipeline
+- FastAPI inference service
+- Streamlit frontend
+- JWT authentication and role-based access
+- Docker Compose deployment
+- GitHub Actions automation
 
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-k63&theme=react-dark&hide_border=true&color=6C63FF&line=6C63FF&point=ffffff&area_color=6C63FF&area=true" alt="Activity Graph"/>
-
-</div>
+→ **Repository:** [churn-prediction-ml-api](https://github.com/Aditya-k63/churn-prediction-ml-api)
 
 ---
 
-## Contribution Snake
+### 05 · RAG Assistant
 
-<div align="center">
+**Document question-answering system using retrieval, reranking, and evaluation.**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditya-k63/Aditya-k63/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aditya-k63/Aditya-k63/output/snake-light.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Aditya-k63/Aditya-k63/output/snake-dark.svg" />
-</picture>
+- PDF ingestion and chunking
+- Vector + BM25 retrieval
+- Reciprocal Rank Fusion
+- Cross-encoder reranking
+- Conversation memory
+- RAGAS evaluation
 
-</div>
+→ **Repository:** [Rag](https://github.com/Aditya-k63/Rag)
 
 ---
 
-## Current Focus
+## Engineering Approach
 
-```yaml
-Learning:
-  - Advanced MLOps patterns and model monitoring
-  - System design for ML infrastructure
-  - Distributed training and inference optimization
+I prefer building AI applications as complete systems rather than treating the model as the entire product.
 
-Building:
-  - Enterprise-grade RAG systems with knowledge graphs
-  - Production ML pipelines with CI/CD automation
-  - LLM-powered agents with tool use and memory
-
-Exploring:
-  - Graph Neural Networks for complex systems
-  - Multi-agent architectures
-  - Edge deployment for ML models
-
-Open To:
-  - DS / ML campus placements 2026
-  - Open source collaborations
-  - AI/ML engineering internships
+```text
+Problem
+  ↓
+Data / Documents
+  ↓
+Retrieval or ML Pipeline
+  ↓
+Model / LLM
+  ↓
+Evaluation
+  ↓
+API / Product Layer
+  ↓
+Observability + Reliability
+  ↓
+Deployment + CI/CD
 ```
 
+That means I pay attention to the parts around the model as well:
+
+**Retrieval quality · evaluation · latency · failure handling · security · reproducibility · deployment**
+
 ---
 
-## Connect
+## AI / ML Areas
+
+| Area | Technologies / Concepts |
+|---|---|
+| **Generative AI** | LLMs, prompt engineering, RAG, GraphRAG, tool calling |
+| **Retrieval** | pgvector, BM25, graph retrieval, RRF, reranking |
+| **Agents** | LangChain, LangGraph, stateful workflows, memory |
+| **NLP** | TF-IDF, transformers, BERT, classification, semantic similarity |
+| **Deep Learning** | PyTorch, TensorFlow, GNNs, STGCN, transfer learning |
+| **Machine Learning** | XGBoost, Random Forest, Logistic Regression, SVM, clustering |
+| **MLOps** | MLflow, Docker, GitHub Actions, evaluation pipelines |
+| **Backend** | FastAPI, REST APIs, PostgreSQL, Neo4j, authentication |
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<a href="mailto:adityakumar14072003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/aditya-kumar1407" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
-<a href="https://github.com/Aditya-k63" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/></a>
-<a href="https://aditya-k63.github.io/Aditya-k63/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio"/></a>
-<a href="https://hub.docker.com/u/adsharma14" target="_blank"><img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117" alt="Docker Hub"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=Aditya-k63&show_icons=true&hide_border=true&bg_color=00000000&title_color=4F46E5&text_color=9CA3AF&icon_color=4F46E5" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-k63&layout=compact&hide_border=true&bg_color=00000000&title_color=4F46E5&text_color=9CA3AF" height="170" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-k63&hide_border=true&background=00000000&ring=4F46E5&fire=4F46E5&currStreakLabel=4F46E5&sideLabels=9CA3AF&dates=9CA3AF" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
+## Beyond Projects
+
+I also spend time strengthening the fundamentals behind the systems I build:
+
+- Data structures and algorithms
+- SQL and data modeling
+- System design for AI applications
+- Prompt engineering and LLM evaluation
+- Experimentation and model analysis
+- Writing maintainable, testable Python
+
+---
+
+## Let's Connect
+
+I am interested in opportunities and collaborations around **AI/ML engineering, Generative AI, RAG, intelligent agents, and backend systems**.
+
 <div align="center">
 
-<!-- Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B4B,100:6C63FF&height=120&section=footer" width="100%"/>
+<a href="https://aditya-k63.github.io/Aditya-k63/">Portfolio</a> •
+<a href="https://www.linkedin.com/in/aditya-kumar1407">LinkedIn</a> •
+<a href="https://github.com/Aditya-k63">GitHub</a> •
+<a href="mailto:adityakumar14072003@gmail.com">Email</a>
 
-*"Every dataset has a hidden story waiting to be uncovered."*
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:111827,100:0B1020&height=120&section=footer" width="100%"/>
 
 </div>
