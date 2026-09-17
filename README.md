@@ -10,9 +10,6 @@
 <a href="https://www.linkedin.com/in/aditya-kumar1407">
 <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://aditya-k63.github.io/Aditya-k63/">
-<img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
 <a href="mailto:adityakumar14072003@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
@@ -222,9 +219,9 @@ That means I pay attention to the parts around the model as well:
 <img src="https://github-readme-stats.vercel.app/api?username=Aditya-k63&show_icons=true&hide_border=true&bg_color=00000000&title_color=4F46E5&text_color=9CA3AF&icon_color=4F46E5" height="170" alt="GitHub Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-k63&layout=compact&hide_border=true&bg_color=00000000&title_color=4F46E5&text_color=9CA3AF" height="170" alt="Top Languages"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-k63&hide_border=true&background=00000000&ring=4F46E5&fire=4F46E5&currStreakLabel=4F46E5&sideLabels=9CA3AF&dates=9CA3AF" alt="GitHub Streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-k63&bg_color=00000000&color=9CA3AF&line=4F46E5&point=4F46E5&area=true&hide_border=true" width="95%" alt="GitHub Contribution Activity"/>
 
 </div>
 
@@ -249,7 +246,6 @@ I am interested in opportunities and collaborations around **AI/ML engineering, 
 
 <div align="center">
 
-<a href="https://aditya-k63.github.io/Aditya-k63/">Portfolio</a> •
 <a href="https://www.linkedin.com/in/aditya-kumar1407">LinkedIn</a> •
 <a href="https://github.com/Aditya-k63">GitHub</a> •
 <a href="mailto:adityakumar14072003@gmail.com">Email</a>
