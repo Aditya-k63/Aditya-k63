@@ -4,15 +4,9 @@
 
 ### Building intelligent systems that are practical, reliable, and production-ready.
 
-<a href="https://github.com/Aditya-k63">
-<img src="https://img.shields.io/badge/GitHub-Aditya--k63-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/aditya-kumar1407">
-<img src="https://img.shields.io/badge/LinkedIn-Aditya%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:adityakumar14072003@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<a href="https://github.com/Aditya-k63"><img src="https://img.shields.io/badge/GitHub-Aditya--k63-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/aditya-kumar1407"><img src="https://img.shields.io/badge/LinkedIn-Aditya%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:adityakumar14072003@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
@@ -27,7 +21,7 @@
 
 I am a **B.Tech student specializing in AI & ML** who enjoys taking ideas from a model or algorithm and turning them into complete software systems.
 
-My work sits at the intersection of **Generative AI, Retrieval-Augmented Generation, machine learning, backend engineering, and data-driven applications**. I focus on systems that are not only capable of producing useful results, but are also structured for evaluation, deployment, observability, and reliability.
+My work sits at the intersection of **Generative AI, Retrieval-Augmented Generation, machine learning, backend engineering, and data-driven applications**. I focus on systems that are structured for evaluation, deployment, observability, and reliability.
 
 ### What I work on
 
@@ -59,25 +53,20 @@ My work sits at the intersection of **Generative AI, Retrieval-Augmented Generat
 <div align="center">
 
 ### Languages
-
 <img src="https://skillicons.dev/icons?i=python,sql,bash" alt="Languages"/>
 
 ### AI / ML
-
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="AI ML"/>
 
 ### Backend & Data
-
 <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,neo4j" alt="Backend and databases"/>
 
 ### Tools & Infrastructure
-
 <img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,vscode" alt="Tools"/>
 
 ### AI Ecosystem
-
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square" alt="LangGraph"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow"/>
 <img src="https://img.shields.io/badge/pgvector-4F46E5?style=flat-square" alt="pgvector"/>
@@ -89,81 +78,53 @@ My work sits at the intersection of **Generative AI, Retrieval-Augmented Generat
 ## Selected Projects
 
 ### 01 · Hybrid GraphRAG System
-
 **Production-oriented RAG architecture combining semantic, lexical, and graph retrieval.**
-
-**Pipeline**
 
 `PDF → Parsing → Semantic Chunking → Embeddings → PostgreSQL/pgvector + Neo4j → Query Classification → Vector/BM25/Graph Retrieval → RRF → Cross-Encoder Reranking → LLM Generation`
 
-**Highlights**
-
-- Hybrid retrieval using **vector search, BM25, and Neo4j graph traversal**
-- Reciprocal Rank Fusion for combining retrieval signals
-- Cross-encoder reranking for final context selection
-- Query classification for retrieval-strategy routing
-- RAGAS-based evaluation with a deterministic fallback path
-- API authentication, rate limiting, caching, memory, and analytics
-- Dockerized services and automated GitHub Actions CI/CD
-- CI benchmark mode that does not depend on live external LLM requests
+- Hybrid vector + BM25 + Neo4j graph retrieval
+- Reciprocal Rank Fusion and cross-encoder reranking
+- Query classification and retrieval-strategy routing
+- RAGAS evaluation with deterministic fallback
+- Authentication, rate limiting, caching, memory, and analytics
+- Dockerized services and GitHub Actions CI/CD
 
 → **Repository:** [Hybrid-GraphRAG-System](https://github.com/Aditya-k63/Hybrid-GraphRAG-System)
 
----
-
 ### 02 · Task Planner Agent
-
 **Agentic workflow for turning high-level goals into executable tasks.**
 
 - LangGraph state-machine architecture
-- Planning → execution → review → routing workflow
-- Tool registry and session state
-- Retry and review loops for failed tasks
-- Human input when the agent encounters ambiguity
+- Planning → execution → review → routing
+- Tool registry, session state, retries, and human input
 
 → **Repository:** [-Task-Planner-Agent](https://github.com/Aditya-k63/-Task-Planner-Agent)
 
----
-
 ### 03 · STGCN Traffic Forecasting
-
 **Spatio-temporal graph neural network for traffic forecasting across road sensors.**
 
-- PyTorch-based STGCN architecture
-- Graph convolution for spatial dependencies
-- Temporal convolution for time-series patterns
-- FastAPI backend with interactive Streamlit interface
-- Docker-ready project structure
+- PyTorch STGCN architecture
+- Graph convolution + temporal convolution
+- FastAPI backend + Streamlit interface
 
 → **Repository:** [stgcn-traffic-forecasting](https://github.com/Aditya-k63/stgcn-traffic-forecasting)
 
----
-
 ### 04 · Customer Churn Prediction API
-
 **End-to-end machine learning application with deployment and CI/CD.**
 
-- Scikit-learn preprocessing and classification pipeline
+- Scikit-learn pipeline
 - FastAPI inference service
 - Streamlit frontend
-- JWT authentication and role-based access
-- Docker Compose deployment
-- GitHub Actions automation
+- JWT authentication and Docker Compose
 
 → **Repository:** [churn-prediction-ml-api](https://github.com/Aditya-k63/churn-prediction-ml-api)
 
----
-
 ### 05 · RAG Assistant
-
 **Document question-answering system using retrieval, reranking, and evaluation.**
 
 - PDF ingestion and chunking
 - Vector + BM25 retrieval
-- Reciprocal Rank Fusion
-- Cross-encoder reranking
-- Conversation memory
-- RAGAS evaluation
+- RRF, cross-encoder reranking, memory, and RAGAS
 
 → **Repository:** [Rag](https://github.com/Aditya-k63/Rag)
 
@@ -171,27 +132,10 @@ My work sits at the intersection of **Generative AI, Retrieval-Augmented Generat
 
 ## Engineering Approach
 
-I prefer building AI applications as complete systems rather than treating the model as the entire product.
-
 ```text
-Problem
-  ↓
-Data / Documents
-  ↓
-Retrieval or ML Pipeline
-  ↓
-Model / LLM
-  ↓
-Evaluation
-  ↓
-API / Product Layer
-  ↓
-Observability + Reliability
-  ↓
-Deployment + CI/CD
+Problem → Data / Documents → Retrieval or ML Pipeline → Model / LLM
+        → Evaluation → API / Product → Reliability → Deployment / CI/CD
 ```
-
-That means I pay attention to the parts around the model as well:
 
 **Retrieval quality · evaluation · latency · failure handling · security · reproducibility · deployment**
 
@@ -221,15 +165,15 @@ That means I pay attention to the parts around the model as well:
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-k63&bg_color=00000000&color=9CA3AF&line=4F46E5&point=4F46E5&area=true&hide_border=true" width="95%" alt="GitHub Contribution Activity"/>
+### Contribution Activity
+
+<img src="https://raw.githubusercontent.com/Aditya-k63/Aditya-k63/output/github-snake.svg" width="95%" alt="GitHub contribution snake"/>
 
 </div>
 
 ---
 
 ## Beyond Projects
-
-I also spend time strengthening the fundamentals behind the systems I build:
 
 - Data structures and algorithms
 - SQL and data modeling
