@@ -137,21 +137,21 @@ I contribute to open-source projects by identifying concrete bugs, improving dat
 ### Microsoft MarkItDown — YAML Converter
 **Pull Request #2472 · Open**
 
-Added a YAML-to-Markdown converter supporting `.yaml` and `.yml` files, including nested mappings, lists, tables, multiple YAML documents, anchors/aliases, multiline strings, and edge cases. Added converter registration and comprehensive tests. citeturn108file0
+Added a YAML-to-Markdown converter supporting `.yaml` and `.yml` files, including nested mappings, lists, tables, multiple YAML documents, anchors/aliases, multiline strings, and edge cases. Added converter registration and comprehensive tests.
 
 → [View PR #2472](https://github.com/microsoft/markitdown/pull/2472)
 
 ### SignalFlow — FastAPI Route Fix
 **Pull Request #14 · Merged**
 
-Fixed a FastAPI route-ordering bug where `DELETE /api/executions/all` was being captured by the parameterized `DELETE /api/executions/{execution_id}` route. Added regression tests covering both bulk and single-execution deletion. The maintainer confirmed the contribution was merged. citeturn111file0
+Fixed a FastAPI route-ordering bug where `DELETE /api/executions/all` was being captured by the parameterized `DELETE /api/executions/{execution_id}` route. Added regression tests covering both bulk and single-execution deletion.
 
 → [View PR #14](https://github.com/scottcollier10/signalflow/pull/14)
 
 ### llmsectest — Secret Match Classification
 **Pull Request #8 · Merged**
 
-Improved secret-leak detection so exact-case and case-insensitive matches are distinguished, with regression tests for both behaviors. The maintainer reported the tests passing and confirmed the PR was merged. citeturn112file0
+Improved secret-leak detection so exact-case and case-insensitive matches are distinguished, with regression tests for both behaviors.
 
 → [View PR #8](https://github.com/wehnsdaefflae/llmsectest/pull/8)
 
@@ -159,10 +159,10 @@ Improved secret-leak detection so exact-case and case-insensitive matches are di
 
 Contributed multiple fixes to `awesomedata/apd-core`, including:
 
-- Updated the MIT Heart Rate Time Series dataset link to the PhysioNet archive. **PR #386 — merged**. citeturn116file0
-- Updated USDA Nutrient Database metadata to reflect FoodData Central and improved dataset metadata fields. **PR #387 — merged**. citeturn115file0
-- Updated the CIMA histological microscopy dataset link to an accessible Kaggle mirror. **PR #388 — merged**. citeturn114file0
-- Fixed the Cell Image Library homepage URL and metadata. **PR #389 — merged**. citeturn113file0
+- Updated the MIT Heart Rate Time Series dataset link to the PhysioNet archive. **PR #386 — merged**.
+- Updated USDA Nutrient Database metadata to reflect FoodData Central. **PR #387 — merged**.
+- Updated the CIMA histological microscopy dataset link to an accessible Kaggle mirror. **PR #388 — merged**.
+- Fixed the Cell Image Library homepage URL and metadata. **PR #389 — merged**.
 
 → [View Awesome Data contributions](https://github.com/awesomedata/apd-core/pulls?q=is%3Apr+author%3AAditya-k63)
 
@@ -198,8 +198,12 @@ Problem → Data / Documents → Retrieval or ML Pipeline → Model / LLM
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya-k63&show_icons=true&hide_border=true&bg_color=00000000&title_color=4F46E5&text_color=9CA3AF&icon_color=4F46E5" height="170" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-k63&layout=compact&hide_border=true&bg_color=00000000&title_color=4F46E5&text_color=9CA3AF" height="170" alt="Top Languages"/>
+<a href="https://github.com/Aditya-k63">
+  <img src="./profile/stats.svg" height="170" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/Aditya-k63">
+  <img src="./profile/top-langs.svg" height="170" alt="Top Languages"/>
+</a>
 
 <br/><br/>
 
