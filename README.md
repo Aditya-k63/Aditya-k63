@@ -77,56 +77,75 @@ My work sits at the intersection of **Generative AI, Retrieval-Augmented Generat
 
 ## Selected Projects
 
-### 01 · Hybrid GraphRAG System
-**Production-oriented RAG architecture combining semantic, lexical, and graph retrieval.**
+### 01 · Enterprise Hybrid GraphRAG
+**Hybrid vector + BM25 + graph retrieval with a corrective fallback layer.**
 
 `PDF → Parsing → Semantic Chunking → Embeddings → PostgreSQL/pgvector + Neo4j → Query Classification → Vector/BM25/Graph Retrieval → RRF → Cross-Encoder Reranking → LLM Generation`
 
-- Hybrid vector + BM25 + Neo4j graph retrieval
-- Reciprocal Rank Fusion and cross-encoder reranking
-- Query classification and retrieval-strategy routing
-- RAGAS evaluation with deterministic fallback
-- Authentication, rate limiting, caching, memory, and analytics
-- Dockerized services and GitHub Actions CI/CD
+- Hybrid pgvector + BM25 + Neo4j graph retrieval, fused with Reciprocal Rank Fusion and cross-encoder reranking
+- Intent-based query classifier routes each question to vector, graph, or hybrid retrieval
+- **Corrective RAG (v4):** a grader agent checks whether the retrieved context actually answers the question, and falls back to live web search instead of guessing
+- Measured on a golden set — faithfulness **0.9633**, answer relevance **0.4962 → 0.6967** with CRAG, and **0.0440 → 0.6938** on out-of-knowledge-base questions
+- Authentication, rate limiting, query caching, session memory, analytics, and evaluation endpoints
+- Dockerized services with GitHub Actions CI/CD that runs the benchmark offline (`ENABLE_LIVE_LLM=false`) so results stay reproducible
 
-→ **Repository:** [Hybrid-GraphRAG-System](https://github.com/Aditya-k63/Hybrid-GraphRAG-System)
+→ **Repository:** [Hybrid-GraphRAG-System](https://github.com/Aditya-k63/Hybrid-GraphRAG-System) · **Live:** [enterprise-hybrid-graphrag.onrender.com](https://enterprise-hybrid-graphrag.onrender.com/)
 
-### 02 · Task Planner Agent
-**Agentic workflow for turning high-level goals into executable tasks.**
+### 02 · Multilingual Indic NER
+**IndicBERTv2 fine-tuned for Hindi NER, with zero-shot transfer to three more languages.**
 
-- LangGraph state-machine architecture
-- Planning → execution → review → routing
-- Tool registry, session state, retries, and human input
+- Fine-tuned on 100k silver-labeled Hindi Naamapadam sentences; **82.74% entity-level F1** on the official gold test set (+8.7 over a BiLSTM-CRF baseline)
+- Zero-shot cross-lingual transfer with no target-language training — Bengali **80.82%**, Tamil **75.06%**, Telugu **85.31%** F1
+- Bootstrap 95% confidence intervals and error analysis (boundary errors dominate on long 5+ token organization names)
+- FastAPI inference service with an interactive entity-highlighting UI, CPU-optimized Docker image, published to Docker Hub
 
-→ **Repository:** [-Task-Planner-Agent](https://github.com/Aditya-k63/-Task-Planner-Agent)
+→ **Repository:** [multilingual-indic-ner](https://github.com/Aditya-k63/multilingual-indic-ner) · **Model:** [Hugging Face](https://huggingface.co/neuronsbyisshu/indicbert-hi-ner-naamapadam)
 
-### 03 · STGCN Traffic Forecasting
-**Spatio-temporal graph neural network for traffic forecasting across road sensors.**
+### 03 · GridCast — Energy Demand Forecasting
+**24-hour-ahead household electricity forecasting with calibrated uncertainty.**
 
-- PyTorch STGCN architecture
-- Graph convolution + temporal convolution
-- FastAPI backend + Streamlit interface
+- LightGBM on 167M smart-meter readings from 4,443 London households, aggregated into a single hourly demand series (19,864 hours, zero gaps)
+- **0.0109 MAE** — 55.1% below a seasonal-naive baseline (Holt-Winters rejected at +113.3%)
+- Split-conformal calibration lifted interval coverage from **64.3% → 82.6%** at a nominal 80%, calibrated on validation residuals only
+- Error analysis isolated holidays as the dominant failure mode; a controlled holiday-as-Sunday encoding cut holiday MAE **20.6%**
+- FastAPI recursive-inference service with a test-period replay UI, Docker + GitHub Actions CI/CD, models published to Hugging Face Hub
 
-→ **Repository:** [stgcn-traffic-forecasting](https://github.com/Aditya-k63/stgcn-traffic-forecasting)
+→ **Repository:** [energy-demand-forecasting](https://github.com/Aditya-k63/energy-demand-forecasting) · **Model:** [Hugging Face](https://huggingface.co/neuronsbyisshu/london-energy-demand-forecast-lgbm)
 
-### 04 · Customer Churn Prediction API
-**End-to-end machine learning application with deployment and CI/CD.**
+### 04 · ExperimentLens — A/B Testing & Experimentation Analytics
+**An experimentation framework where a p-value below 0.05 is never sufficient to ship.**
 
-- Scikit-learn pipeline
-- FastAPI inference service
-- Streamlit frontend
-- JWT authentication and Docker Compose
+- Two-proportion z-test, chi-square goodness-of-fit for sample-ratio mismatch, and simulation-based Type I error calibration on 294,478 rows
+- Bayesian posterior on the same 2×2 table — 94% HDI, `P(B > A)`, and expected revenue impact — with the README stating plainly that these summaries are *not* independent confirmations
+- Verdict **DON'T SHIP**: the credible interval excludes the +1% worthwhile-lift range, `P(B > A) = 0.1197`, and expected revenue is **−5,188**
+- Minimum detectable effect of **+2.53%** surfaced as a design warning — the experiment was underpowered for the question it was run to answer
+- Decision engine with deliberately asymmetric gates: SHIP requires all 4 criteria, DON'T SHIP requires any 1 of 3
 
-→ **Repository:** [churn-prediction-ml-api](https://github.com/Aditya-k63/churn-prediction-ml-api)
+→ **Repository:** [ab-testing-experimentation](https://github.com/Aditya-k63/ab-testing-experimentation)
 
-### 05 · RAG Assistant
-**Document question-answering system using retrieval, reranking, and evaluation.**
+### 05 · Brain Tumor MRI Classifier
+**EfficientNetB0 transfer learning with Grad-CAM explainability and a production FastAPI service.**
 
-- PDF ingestion and chunking
-- Vector + BM25 retrieval
-- RRF, cross-encoder reranking, memory, and RAGAS
+- 95% accuracy across 4 classes; glioma recall lifted from **65% → 83%** via dataset rebalancing plus decision-threshold optimization
+- Custom glioma decision threshold, focal loss, and class weights after four iterations on the failure mode
+- FastAPI backend with Grad-CAM overlays, batch prediction, confidence thresholds, and request tracing
+- Resolved a Keras 2/3 serialization break by rebuilding the architecture in code and loading weights separately
+- Docker + GitHub Actions CI/CD publishing to Docker Hub, model hosted on Hugging Face Hub
 
-→ **Repository:** [Rag](https://github.com/Aditya-k63/Rag)
+→ **Repository:** [brain_tumor](https://github.com/Aditya-k63/brain_tumor) · **Live:** [brain-tumor-xw48.onrender.com](https://brain-tumor-xw48.onrender.com/)
+
+### 06 · Task Planner Agent
+**LangGraph agent that turns a high-level goal into an executable task DAG.**
+
+- Planning → execution → review → routing state machine with self-healing retries and dynamic provider fallback across Groq and OpenRouter
+- Dependency-aware DAGs of up to 12 tasks, with a clarification flow instead of guessing when the goal is ambiguous
+- Lazy-loaded tool registry with 8 tools — file operations, sandboxed shell, web search, and URL fetch
+- Session state, human-in-the-loop input, FastAPI service, Docker + CI/CD
+
+→ **Repository:** [Autonomous-Task-Planning-System](https://github.com/Aditya-k63/Autonomous-Task-Planning-System)
+
+### More Projects
+[CRAG — Corrective RAG](https://github.com/Aditya-k63/CRAG) · [STGCN Traffic Forecasting](https://github.com/Aditya-k63/stgcn-traffic-forecasting) · [Customer Churn API](https://github.com/Aditya-k63/churn-prediction-ml-api) · [Crypto Direction Predictor](https://github.com/Aditya-k63/crypto-direction-predictor) · [Heart Disease Prediction](https://github.com/Aditya-k63/Heart-Disease-Prediction) · [Ticket Categorizer](https://github.com/Aditya-k63/Ticket-Categorizer) · [MLOps Batch Job](https://github.com/Aditya-k63/mlops-task) · [RAG Assistant](https://github.com/Aditya-k63/Rag) · [DSA / LeetCode](https://github.com/Aditya-k63/dsa_repo)
 
 ---
 
